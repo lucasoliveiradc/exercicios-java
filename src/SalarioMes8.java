@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class SalarioMes {
+public class SalarioMes8 {
 
     public static void main(String[] args){
 

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Conversao {
+public class Conversao5 {
 
     public static void main (String[] args){
         Scanner scan = new Scanner(System.in);

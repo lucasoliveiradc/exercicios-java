@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class InformarNumero {
+public class InformarNumero2 {
 
     public static void main (String args[] ){
 
