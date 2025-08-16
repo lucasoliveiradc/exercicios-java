@@ -15,5 +15,19 @@ public class NotasParciais20 {
 
         System.out.print("Terceira nota: ");
         double terceiraNota = scan.nextDouble();
+
+        double media = (primeiraNota + segundaNota + terceiraNota) / 3;
+
+        if(media == 10){
+            System.out.print("Aprovado com Distinção");
+        }
+
+        else if(media >= 7){
+            System.out.print("Aprovado");
+        }
+
+        else{
+            System.out.print("Reprovado");
+        }
     }
 }
